@@ -2,7 +2,7 @@
 
 
 Survey Data
-Data are in JSON, CSV, XLS, GSHEET
+Data are in JSON, CSV, XLSX
 
 
 ![01Cover](https://user-images.githubusercontent.com/871482/147591468-e51c88f2-a6d3-40dd-934f-e01d504aa739.png)
